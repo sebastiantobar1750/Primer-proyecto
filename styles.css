@@ -1,0 +1,31 @@
+header{
+    color: aliceblue;
+}
+li{
+    color: rgb(250, 184, 250);
+    background-color: rgb(253, 182, 253)
+}
+
+li:hover{
+    text-underline-position: aqua;
+}
+
+a{
+    background-color: rgb(250, 192, 250);
+    color: rgb(250, 192, 250);
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+body{
+    background-color: rgb(254, 236, 239);
+}
+
+img{
+    width: auto;
+    height: auto;
+    max-width: 200px;
+    max-height: 200px;
+}
