@@ -29,3 +29,12 @@ img{
     max-width: 200px;
     max-height: 200px;
 }
+
+h1{
+    color:violet;
+    text-decoration: underline;
+}
+
+p{
+    color:black;
+}
